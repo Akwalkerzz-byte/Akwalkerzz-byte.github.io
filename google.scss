@@ -1,0 +1,137 @@
+ body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: black;
+    background: white;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+    
+    
+    
+ }
+ .head{
+     text-align: right;
+     margin-top: 10px;
+     
+    }
+ .h1 .h2 .h3 .h4{
+     text-align: right;
+     padding-left: 30px;
+     padding-right: 30px;
+     text-decoration: line-through ;
+     
+     
+ }
+ .h3{
+     padding-right: 20px;
+ }
+
+
+  .h4 {
+     padding-right: 5px;
+     padding-left: 5px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     margin-right: 10px;
+     background-color:   #4285f4;
+     font-weight: bold;
+     outline: none;
+     color: white;   
+     text-decoration: none;
+     font-size: medium;
+     
+}
+.h1, .h2 {
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    background-color:   #ffffff;
+    font-weight: bold;
+    outline: none;
+    color: rgb(0, 0, 0);   
+    text-decoration: none;
+    font-size: medium;
+    
+}
+ .middle{
+    
+    text-align: center;
+    
+
+}
+ 
+ .gi{
+     text-align: center;
+     padding-top: 89px;
+     margin-top: 99px;
+     
+     width: 272;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .s1{
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 500px;
+   
+    
+    
+ }
+ .f1{
+     width: 430px;
+     height: 30px;
+     
+     border: none;
+     flex-wrap: wrap;
+     
+ }
+
+ .F2{
+     border-color: none;
+     height: 30px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+    }
+.f2{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.lang{
+    margin-left: auto;
+    margin-right: auto;
+}
+ .b{
+     margin-top: 380px;
+     background-color:gainsboro;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     padding-left: 5px;
+     
+
+    
+ }
+ 
